@@ -1,5 +1,4 @@
 ---
-title: "Welcome to my blog"
+title: "Not sure I like Jekyll but it will do"
 ---
-
-I'm glad you are here. I plan to talk about ...
+One can mess with this.
